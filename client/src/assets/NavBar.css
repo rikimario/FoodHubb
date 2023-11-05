@@ -1,5 +1,5 @@
 :root {
-    --brandColor:red;
+    --brandColor:hsl(354, 70%, 54%);
     --bg-color: white;
     --font-family: 'Lato', sans-serif;
 }
