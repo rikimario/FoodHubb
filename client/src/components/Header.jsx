@@ -6,11 +6,10 @@ export default function Header() {
                     <div className="col-lg-8 col-xl-7 col-xxl-6">
                         <div className="my-5 text-center text-xl-start">
                             <h1 className="display-5 fw-bolder text-white mb-2">
-                                A Bootstrap 5 template for modern businesses
+                                Savor the Flavor, Share the Joy.
                             </h1>
                             <p className="lead fw-normal text-white-50 mb-4">
-                                Quickly design and customize responsive mobile-first sites with
-                                Bootstrap, the world’s most popular front-end open source toolkit!
+                                Explore a world of mouthwatering recipes, from time-tested classics to innovative culinary creations.Discover, cook, and savor the magic of each recipe, and let your culinary adventures begin!
                             </p>
                             <div className="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
                                 <a className="btn btn-primary btn-lg px-4 me-sm-3" href="#features">
@@ -25,7 +24,7 @@ export default function Header() {
                     <div className="col-xl-5 col-xxl-6 d-none d-xl-block text-center">
                         <img
                             className="img-fluid rounded-3 my-5"
-                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnowkxbCcNkeLbocjr5q2GJN9uEmhCs3wMXw&usqp=CAU"
+                            src="https://img.freepik.com/free-photo/chicken-wings-barbecue-sweetly-sour-sauce-picnic-summer-menu-tasty-food-top-view-flat-lay_2829-6471.jpg"
                             alt="..."
                         />
                     </div>
