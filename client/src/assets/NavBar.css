@@ -1,0 +1,31 @@
+:root {
+    --brandColor:red;
+    --bg-color: white;
+    --font-family: 'Lato', sans-serif;
+}
+
+
+
+/** Nav Brand */
+.navbar-brand {
+    font-size: 2rem;
+    font-family: var(--font-family);
+}
+
+.navbar-brand::first-letter {
+    color: var(--brandColor);
+    font-size: 150%;
+}
+
+
+.discoveries {
+    color: var(--brandColor);
+    font-size: 150%;
+}
+
+
+.navbar-nav {
+    font-family: var(--font-family);
+    font-size: 1.2rem;
+}
+
